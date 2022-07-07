@@ -18,10 +18,10 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Intelligent Environments Laboratory'
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-74342583-1'
     baidu_tongji: ''
   verification:
     google: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} IEL. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -84,14 +84,14 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: 
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
