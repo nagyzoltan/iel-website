@@ -1,6 +1,6 @@
 ---
 title: EPRI AI Grand Challenge Kick-Off
-date: 2022-07-08T23:22:55.954Z
+date: 2022-04-29T23:22:55.954Z
 draft: false
 featured: false
 image:
