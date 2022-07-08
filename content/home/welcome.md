@@ -9,6 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Intelligent Environments Laboratory
 hero_media: DROverview.jpg
+headless: true
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
