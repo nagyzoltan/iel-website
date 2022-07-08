@@ -15,7 +15,7 @@ content:
     exclude_featured: false
     publication_type: ''
     tag: ''
-  offset: 0
+  offset: 0 # useful if the first item is to be shown in the featured widget
   order: desc
   page_type: post
 design:
