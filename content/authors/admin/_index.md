@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Nagy is an assistant professor in the Department of Civil, Architectural, and Environmental Engineering at The University of Texas at Austin, directing the Intelligent Environments Laboratory since 2016. A roboticist turned building engineer, his research interests are in smart buildings and cities, renewable energy systems, control systems for zero emission building operation, and the application of machine learning and artificial intelligence for the built environment for a sustainable energy transition. He has received several Best Paper awards from the CISBAT conference, Building & Environment journal, as well as a Highest Cited Paper award from Applied Energy. He organized and chaired the first workshop on Reinforcement Learning for energy management in buildings and cities (RLEM’20) at ACM BuildSys’20.
