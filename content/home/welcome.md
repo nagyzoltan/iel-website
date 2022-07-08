@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Intelligent Environments Laboratory
-hero_media: welcome.jpg
+hero_media: DROverview.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,3 +20,8 @@ design:
 <br>
 
 The **Intelligent Environments Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+
+The Intelligent Environments Laboratory (IEL), led by Prof. Zoltán Nagy, is an interdisciplinary research group in the Department of Civil, Architectural and Environmental Engineering (CAEE) at The University of Texas at Austin.
+  
+IEL advances science, engineering and education towards an **intelligent** and **human-responsive** energy infrastructure in the built environment by creating theoretical foundations and demonstrating innovative applications. We develop methods in Machine Learning (Supervised, Unsupervised and Reinforcement), Internet of Things, Data Analytics and System Integration/Deployment, with applications in **Occupant-Centric Building Design and Operation** and **Grid-Interactive Smart Communities**.
