@@ -5,20 +5,17 @@
 
 main:
   - name: News
-    url: post
+    url: #news
     weight: 10
   - name: Team
-    url: people
+    url: #people
     weight: 20
   - name: Research
-    url: research
+    url: #research
     weight: 30
   - name: Publications
-    url: publication
+    url: #publication
     weight: 40
   - name: Code
-    url: code
+    url: #code
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
