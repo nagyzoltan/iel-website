@@ -9,9 +9,9 @@ superuser: false
 role: Assistant Professor
 
 # Organizations/Affiliations
-<!-- organizations:
+<!-- -- organizations:
   - name: The University of Texas at Austin
-    url: '' -->
+    url: ''  -->
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include reinforcement learning for buildings and smart cities.
@@ -61,5 +61,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
