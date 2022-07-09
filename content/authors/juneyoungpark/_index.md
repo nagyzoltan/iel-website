@@ -9,9 +9,9 @@ superuser: false
 role: Assistant Professor
 
 # Organizations/Affiliations
-<!-- -- organizations:
-  - name: The University of Texas at Austin
-    url: ''  -->
+-- organizations:
+  - name: The University of Texas at Arlington
+    url: '' 
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include reinforcement learning for buildings and smart cities.
