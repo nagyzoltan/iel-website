@@ -12,6 +12,8 @@ image:
 ---
 We have a new paper in Applied Energy led by IEL's awesome PhD student Kingsley Nweye.
 
+<!--more-->
+
 Kingsley Nweye, Zoltan Nagy, <em>MARTINI: Smart meter driven estimation of HVAC schedules and energy savings based on Wi-Fi sensing and clustering</em>, Applied Energy, Volume 316, 2022, 118980,
 
 <a href="https://doi.org/10.1016/j.apenergy.2022.118980" target="_blank" rel="noopener">https://doi.org/10.1016/j.apenergy.2022.118980</a>.
