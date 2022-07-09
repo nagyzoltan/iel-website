@@ -4,7 +4,7 @@ subtitle:
 widget: blank
 active: true
 headless: true
-weight: 40
+weight: 60
 design:
   columns: '1'
 ---
