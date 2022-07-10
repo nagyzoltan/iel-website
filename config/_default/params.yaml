@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  font_size: m
 
 # SEO
 
@@ -35,7 +35,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
 
