@@ -12,7 +12,7 @@ headless: true
 design:
   background:
     image: ielgroupbackground.jpg
-    image_size: contain
+    image_size: actual
     text_color_light: true
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
