@@ -22,7 +22,7 @@ content:
         position: right
         color: '#FFF'
         brightness: 0.7
-        media: nagy-group-4.jpg
+        media: nagy-group-4_25.jpg
         fit: contain
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
