@@ -11,7 +11,7 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 4000
 
 content:
   slides:
@@ -20,7 +20,7 @@ content:
       align: center
       background:
         position: right
-        color: '#000'
+        color: '#FFF'
         brightness: 0.7
         media: nagy-group-4.jpg
         fit: contain
@@ -29,7 +29,7 @@ content:
       align: left
       background:
         position: center
-        color: '#000'
+        color: '#FFF'
         brightness: 0.7
         media: research-methods.jpg
         fit: contain
@@ -38,7 +38,7 @@ content:
       align: right
       background:
         position: center
-        color: '#000'
+        color: '#FFF'
         brightness: 0.5
         media: research-applications.jpg
         fit: contain
