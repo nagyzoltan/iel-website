@@ -9,18 +9,18 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
   interval: 2000
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to IEL
       content: Take a look at what we're working on...
       align: center
       background:
         position: right
-        color: '#666'
+        color: '#000'
         brightness: 0.7
         media: nagy-group-4.jpg
         fit: contain
@@ -29,7 +29,7 @@ content:
       align: left
       background:
         position: center
-        color: '#555'
+        color: '#000'
         brightness: 0.7
         media: research-methods.jpg
         fit: contain
@@ -38,7 +38,7 @@ content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: '#000'
         brightness: 0.5
         media: research-applications.jpg
         fit: contain
