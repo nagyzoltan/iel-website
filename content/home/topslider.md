@@ -23,26 +23,3 @@ content:
         brightness: 0.7
         media: nagy-group-4.jpg
         fit: cover
-    - title: Research Methods ☕️
-      content: 'We work in all areas of machine learning applied to the built environment!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: research-methods.jpg
-        fit: cover
-    - title: Teaching
-      content: 'Check out our courses'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: DSC0038.jpg
-        fit: cover
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
