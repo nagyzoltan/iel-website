@@ -1,14 +1,15 @@
-widget: slider  # Use the Slider widget as this page section
-weight: 1  # Position of this section on the page
-active: true  # Publish this section?
-headless: true  # This file represents a page section.
+---
+widget: slider
+weight: 1
+active: true
+headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: true
+  loop: false
   # Duration of transition between slides (in ms)
   interval: 2000
 
@@ -21,5 +22,26 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: 
-        fit: cover
+        media: coders.jpg
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: welcome.jpg
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
+---
