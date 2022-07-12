@@ -24,8 +24,8 @@ content:
         brightness: 0.7
         media: nagy-group-4_25.jpg
         fit: contain
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Machine Learning for the built environment
+      content: 'IEL advances science, engineering and education towards an intelligent and human-responsive energy infrastructure in the built environment.'
       align: left
       background:
         position: center
