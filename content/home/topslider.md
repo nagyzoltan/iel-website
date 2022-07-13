@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: 👋 Welcome to IEL
-      content: Take a look at what we're working on...
+      content: 
       align: center
       background:
         position: right
