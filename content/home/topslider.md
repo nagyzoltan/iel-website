@@ -42,9 +42,4 @@ content:
         brightness: 0.5
         media: research-applications.jpg
         fit: contain
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
 ---
