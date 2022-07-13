@@ -21,7 +21,7 @@ content:
       background:
         position: right
         color: '#FFF'
-        brightness: 0.7
+        brightness: 0.5
         media: nagy-group-4_25.jpg
         fit: contain
     - title: IEL advances science, engineering and education towards...
@@ -30,7 +30,7 @@ content:
       background:
         position: center
         color: '#FFF'
-        brightness: 0.7
+        brightness: 0.5
         media: research-methods.jpg
         fit: contain
     - title: ...an intelligent and human-responsive energy infrastructure in the built environment.
