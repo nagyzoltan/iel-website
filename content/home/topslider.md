@@ -24,8 +24,8 @@ content:
         brightness: 0.7
         media: nagy-group-4_25.jpg
         fit: contain
-    - title: Machine Learning for the built environment
-      content: 'IEL advances science, engineering and education towards an intelligent and human-responsive energy infrastructure in the built environment.'
+    - title: IEL advances science, engineering and education towards...
+      content: ''
       align: left
       background:
         position: center
@@ -33,8 +33,8 @@ content:
         brightness: 0.7
         media: research-methods.jpg
         fit: contain
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: ...an intelligent and human-responsive energy infrastructure in the built environment.
+      content: ''
       align: right
       background:
         position: center
