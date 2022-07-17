@@ -1,6 +1,6 @@
 ---
 # Display name
-title: June Young Park
+title: Dr. June Young Park
 
 # Is this the primary user of the site?
 superuser: false
