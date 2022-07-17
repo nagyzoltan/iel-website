@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jose Vázquez-Canteli
+title: Dr. Jose Vázquez-Canteli
 
 # Is this the primary user of the site?
 superuser: false
