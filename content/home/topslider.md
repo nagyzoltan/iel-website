@@ -40,6 +40,6 @@ content:
         position: center
         color: '#FFF'
         brightness: 0.5
-        media: research-applications.jpg
+        media: nagy-group-14.jpg
         fit: contain
 ---
