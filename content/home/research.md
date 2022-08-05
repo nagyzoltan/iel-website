@@ -1,13 +1,13 @@
 ---
 widget: portfolio
 headless: true  # This file represents a page section.
+# Order that this section appears on the page.
+weight: 35
+
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Research Projects
 subtitle: ''
-
-# Order that this section appears on the page.
-weight: 35
 
 content:
   # Choose which content to display in the widget
