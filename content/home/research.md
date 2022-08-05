@@ -6,6 +6,9 @@ headless: true  # This file represents a page section.
 title: Research Projects
 subtitle: ''
 
+# Order that this section appears on the page.
+weight: 35
+
 content:
   # Choose which content to display in the widget
   filters:
