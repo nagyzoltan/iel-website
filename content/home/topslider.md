@@ -31,7 +31,7 @@ content:
         position: center
         color: '#FFF'
         brightness: 0.5
-        media: research-methods.jpg
+        media: teaching.jpg
         fit: contain
     - title: ...an intelligent and human-responsive energy infrastructure in the built environment.
       content: ''
