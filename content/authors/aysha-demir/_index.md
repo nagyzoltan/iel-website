@@ -20,14 +20,11 @@ interests:
   - Urban Energy Modeling
   - Calibration and Forecasting
 
-<!-- education:
+education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year:  -->
+    - course: PhD Civil Engineering
+      institution: The University of Texas at Austin
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
