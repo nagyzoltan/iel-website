@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Aysha Demir
+title: Dr. Aysha Demir
 
 # Is this the primary user of the site?
 superuser: false
