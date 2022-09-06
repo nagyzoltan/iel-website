@@ -12,7 +12,7 @@ summary: "CityLearn is an open source OpenAI Gym environment for the
 draft: false
 featured: false
 tags:
-  - ReinforcementLearning
+  - Reinforcement Learning
 categories:
   - Reinforcement Learning
 image:
