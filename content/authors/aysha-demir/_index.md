@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aysha Demir
+title: Dr Aysha Demir
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Assistant Instructional Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Texas at Austin
+  - name: University of Wyoming
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -61,5 +61,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
