@@ -27,3 +27,11 @@ More details and installation on GitHub: https://github.com/intelligent-environm
 Also check out the annual CityLearn Challenge http://www.citylearn.net
 
 The 2022 edition is organized in collaboration with AICrowd, sign up here: <https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge>
+
+**Key Publications**
+
+Vázquez-Canteli JR, Kämpf J, Henze G, Nagy Z. CityLearn v1. 0: An OpenAI gym environment for demand response with deep reinforcement learning. InProceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation 2019 Nov 13 (pp. 356-357).
+
+Vazquez-Canteli JR, Henze G, Nagy Z. MARLISA: Multi-agent reinforcement learning with iterative sequential action selection for load shaping of grid-interactive connected buildings. InProceedings of the 7th ACM international conference on systems for energy-efficient buildings, cities, and transportation 2020 Nov 18 (pp. 170-179).
+
+Vázquez-Canteli JR, Dey S, Henze G, Nagy Z. CityLearn: Standardizing research in multi-agent reinforcement learning for demand response and urban energy management. arXiv preprint arXiv:2012.10504. 2020 Dec 18.
