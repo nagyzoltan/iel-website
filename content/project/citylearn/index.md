@@ -13,6 +13,8 @@ draft: false
 featured: false
 tags:
   - ReinforcementLearning
+categories:
+  - Reinforcement Learning
 image:
   filename: featured.jpg
   focal_point: Smart
