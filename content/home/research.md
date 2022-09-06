@@ -38,10 +38,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Reinforcement Learning
+      tag: Reinforcement Learning
     - name: Other
-      tag: Demo
+      tag: Other
 
   # Default filter toolbar button (e.g. 0 corresponds to the first `filter_button` instance above)
   filter_default: 0
