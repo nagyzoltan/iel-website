@@ -21,6 +21,11 @@ user_groups:
       year: -->
 role: PhD Student
 social:
+  - display:
+      header: false
+    link: mailto:nweye@utexas.edu
+    icon_pack: fas
+    icon: envelope
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kingsley-nweye-892074139
