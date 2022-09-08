@@ -1,9 +1,10 @@
 ---
 title: Ting-Yu Dai
 role: PhD Student
-bio: "Research interest: machine learning, urban downscaling"
+bio: ""
 interests:
   - Machine learning for climate
+  - Urban Downscaling
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,6 +27,5 @@ user_groups:
       institution: null
       year: -->
 highlight_name: false
-email: ""
+email: funnyengineer@utexas.edu
 ---
-\- Research interest: machine learning, urban downscaling
