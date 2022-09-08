@@ -32,7 +32,7 @@ social:
     link: https://github.com/kingsleynweye
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: twitter
     link: https://twitter.com/Etonwanaa
 highlight_name: false
