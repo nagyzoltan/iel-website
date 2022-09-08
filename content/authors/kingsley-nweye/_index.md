@@ -22,7 +22,7 @@ user_groups:
 role: PhD Student
 social:
   - icon: linkedin
-    icon_pack: far
+    icon_pack: fab
     link: www.linkedin.com/in/kingsley-nweye-892074139
   - icon: google-scholar
     icon_pack: ai
