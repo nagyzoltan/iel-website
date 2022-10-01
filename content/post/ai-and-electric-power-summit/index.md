@@ -5,7 +5,7 @@ date: 2022-10-04T01:29:53.038Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ai_2022.jpg
   focal_point: Smart
   preview_only: false
 ---
