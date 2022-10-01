@@ -4,7 +4,7 @@ date: 2022-09-30T01:21:40.610Z
 draft: false
 featured: false
 image:
-  filename: amazon-science-logo.svg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
