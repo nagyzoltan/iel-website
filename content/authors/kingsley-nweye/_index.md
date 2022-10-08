@@ -1,5 +1,4 @@
 ---
-title: Kingsley Nweye
 interests:
   - Reinforcement Learning
   - Smart Buildings and Cities
@@ -7,7 +6,6 @@ interests:
 organizations:
   - name: The University of Texas at Austin
     url: ""
-email: ""
 superuser: false
 user_groups:
   - Grad Students
@@ -20,6 +18,7 @@ user_groups:
       institution: null
       year: -->
 role: PhD Student
+avatar_filename: me_1.jpeg
 social:
   - display:
       header: false
@@ -41,4 +40,6 @@ social:
     icon: twitter
     link: https://twitter.com/Etonwanaa
 highlight_name: false
+title: Kingsley Nweye
+email: ""
 ---
