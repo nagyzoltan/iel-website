@@ -18,7 +18,7 @@ user_groups:
       institution: null
       year: -->
 role: PhD Student
-avatar_filename: me_1.jpeg
+avatar_filename: https://kingsleynweye.com/assets/img/me_1.jpeg
 social:
   - display:
       header: false
