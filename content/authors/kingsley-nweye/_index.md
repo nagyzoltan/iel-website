@@ -39,6 +39,12 @@ social:
     icon_pack: fab
     icon: twitter
     link: https://twitter.com/Etonwanaa
+  - display:
+      header: false
+    link: https://www.kingsleynweye.com
+    icon_pack: fas
+    icon: web
+    label: website
 highlight_name: false
 title: Kingsley Nweye
 email: ""
