@@ -1,4 +1,8 @@
 ---
+title: Kingsley Nweye
+role: PhD Student
+avatar_filename: me_1.jpeg
+bio: ""
 interests:
   - Reinforcement Learning
   - Smart Buildings and Cities
@@ -17,8 +21,6 @@ user_groups:
     - course: null
       institution: null
       year: -->
-role: PhD Student
-avatar_filename: https://kingsleynweye.com/assets/img/me_1.jpeg
 social:
   - display:
       header: false
@@ -46,6 +48,8 @@ social:
     icon: web
     label: website
 highlight_name: false
-title: Kingsley Nweye
 email: ""
 ---
+I am a PhD student with research interests in occupant-centric control of HVAC systems, energy flexibility of Grid-Interactive Efficient Buildings and the use of reinforcement learning for building energy systems control towards building electrification and decarbonization.
+
+You might find me building LEGOs or weightlifting when I convince myself that I have nothing left on my Trello board.
