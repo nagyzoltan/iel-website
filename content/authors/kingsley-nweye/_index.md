@@ -41,6 +41,12 @@ social:
     icon_pack: fab
     icon: twitter
     link: https://twitter.com/Etonwanaa
+  - display:
+      header: false
+    link: https://www.kingsleynweye.com
+    label: Website
+    icon_pack: fas
+    icon: globe
 highlight_name: false
 email: ""
 ---
