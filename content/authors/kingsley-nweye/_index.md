@@ -1,7 +1,7 @@
 ---
 title: Kingsley Nweye
 role: PhD Student
-avatar_filename: me_1.jpeg
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Reinforcement Learning
