@@ -24,6 +24,12 @@ user_groups:
 social:
   - display:
       header: false
+    link: https://www.kingsleynweye.com
+    label: Website
+    icon_pack: fas
+    icon: globe
+  - display:
+      header: false
     link: mailto:nweye@utexas.edu
     icon_pack: fas
     icon: envelope
@@ -41,12 +47,6 @@ social:
     icon_pack: fab
     icon: twitter
     link: https://twitter.com/Etonwanaa
-  - display:
-      header: false
-    link: https://www.kingsleynweye.com
-    label: Website
-    icon_pack: fas
-    icon: globe
 highlight_name: false
 email: ""
 ---
