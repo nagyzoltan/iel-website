@@ -53,3 +53,5 @@ email: ""
 I am a PhD student with research interests in occupant-centric control of HVAC systems, energy flexibility of Grid-Interactive Efficient Buildings and the use of reinforcement learning for building energy systems control towards building electrification and decarbonization.
 
 You might find me building LEGOs or weightlifting when I convince myself that I have nothing left on my Trello board.
+
+Learn more about me and my work on my personal website: [kingsleynweye.com](https://www.kingsleynweye.com).
