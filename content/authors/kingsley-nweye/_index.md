@@ -54,4 +54,4 @@ I am a PhD student with research interests in occupant-centric control of HVAC s
 
 You might find me building LEGOs or weightlifting when I convince myself that I have nothing left on my Trello board.
 
-To learn more about me and my work, please visit my website: [kingsleynweye.com](https://www.kingsleynweye.com).
+To learn more about me and my work please, visit my website: [kingsleynweye.com](https://www.kingsleynweye.com).
