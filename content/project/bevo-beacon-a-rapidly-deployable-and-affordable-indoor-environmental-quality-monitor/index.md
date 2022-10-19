@@ -6,7 +6,9 @@ draft: false
 featured: false
 tags: []
 categories:
-  - IAQ; IoT;Sensors
+  - IAQ
+  - IoT
+  - Sensors
 image:
   filename: 1-s2.0-s0360132322006631-gr4_lrg.jpg
   focal_point: Smart
