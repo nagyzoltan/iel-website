@@ -2,7 +2,7 @@
 title: Dr Nagy receives the 2022 IBPSA-USA Outstanding Researcher Award
 date: 2022-09-15T17:58:40.530Z
 draft: false
-featured: false
+featured: true
 image:
   filename: final-logo-2.png
   focal_point: Smart
