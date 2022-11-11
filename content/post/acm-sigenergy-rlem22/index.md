@@ -5,7 +5,7 @@ date: 2022-11-11T20:04:44.092Z
 draft: false
 featured: false
 image:
-  filename: rlem_zoom_bckgnd.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
