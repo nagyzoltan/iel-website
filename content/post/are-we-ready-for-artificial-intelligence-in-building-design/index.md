@@ -5,7 +5,7 @@ date: 2022-11-13T02:17:16.141Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: aj-podcast-final-logo.png
   focal_point: Smart
   preview_only: false
 ---
