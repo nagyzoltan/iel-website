@@ -20,7 +20,7 @@ user_groups:
       ? year
     - course: null
       institution: null
-      year: 
+      year: -->
 social:
   - display:
       header: false
@@ -49,7 +49,6 @@ social:
     link: https://twitter.com/Etonwanaa
 highlight_name: false
 email: ""
--->
 ---
 I am a PhD student with research interests in occupant-centric control of HVAC systems, energy flexibility of Grid-Interactive Efficient Buildings and the use of reinforcement learning for building energy systems control towards building electrification and decarbonization.
 
