@@ -1,6 +1,6 @@
 ---
 title: Dr Hagen Fritz
-role: Engineer
+role: Research Engineer
 interests:
   - Indoor Air Quality
   - Sleep and IAQ
