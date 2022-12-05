@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: masonry
+  view: card
   columns: '2'
 ---
