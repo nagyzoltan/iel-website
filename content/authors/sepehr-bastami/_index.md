@@ -2,7 +2,7 @@
 -- organizations:
   - name: The University of Texas at Arlington
     url: ""
-role: Research Engineer, NASA
+role: Research Engineer
 avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQHJAwrIhQHLEQ/profile-displayphoto-shrink_100_100/0/1516525100916?e=1675900800&v=beta&t=tu7IaLn5wocidshqhpLa85apwli4sylzuD6eMLglcxs
 interests:
   - Occupant Centric Building Control
