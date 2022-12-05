@@ -1,5 +1,5 @@
 ---
-title: CityLearn Challenge 2022
+title: CityLearn Challenge 2022 @ NeurIPS22
 date: 2022-12-05T02:11:37.750Z
 draft: false
 featured: false
