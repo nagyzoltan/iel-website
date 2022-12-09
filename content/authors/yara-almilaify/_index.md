@@ -1,7 +1,7 @@
 ---
 title: Yara Almilaify
 role: MSc Student
-avatar_filename: img_8285.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
