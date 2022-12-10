@@ -6,5 +6,5 @@ social: []
 email: ""
 superuser: false
 user_groups:
-  - GradStudents
+  - Grad Students
 ---
