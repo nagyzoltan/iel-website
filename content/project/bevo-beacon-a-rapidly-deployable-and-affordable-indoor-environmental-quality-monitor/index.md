@@ -4,7 +4,10 @@ title: "(BEVO) Beacon: A rapidly-deployable and affordable indoor environmental
 date: 2022-10-19T21:28:12.915Z
 draft: false
 featured: false
-tags: []
+tags:
+  - IAQ
+  - IoT
+  - Sensors
 categories:
   - IAQ
   - IoT
