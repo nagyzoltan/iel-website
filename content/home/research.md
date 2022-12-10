@@ -40,6 +40,8 @@ content:
       tag: '*'
     - name: Reinforcement Learning
       tag: Reinforcement Learning
+    - name: IAQ
+      tag: IAQ
     - name: Other
       tag: Other
 
