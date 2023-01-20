@@ -1,6 +1,6 @@
 ---
 title: Allen Wu
-role: Undergraduate Researcher CS
+role: Undergraduate Research Assistant (CS)
 avatar_filename: avatar
 social: []
 superuser: false
