@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: maito:allenwuhoo@gmail.com
+    link: mailto:allenwuhoo@gmail.com
     icon_pack: fas
     icon: envelope
   - display:
