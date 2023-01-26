@@ -1,7 +1,7 @@
 ---
 title: Calvin Lin
 role: MSc Student
-avatar_filename: https://avatars.dicebear.com/api/bottts/Calvin.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
