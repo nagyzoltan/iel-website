@@ -1,64 +1,33 @@
 ---
-# Display name
-title: Praveen Radhakrishnan
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: MSc Student
-
-# Organizations/Affiliations
-organizations:
-  - name: The University of Texas at Austin
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-#bio: My research interests include machine learning for smart buildings
-
 interests:
   - Machine learning for climate
-
+organizations:
+  - name: The University of Texas at Austin
+    url: ""
+superuser: false
+user_groups:
+  - Grad Students
 <!-- education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year:  -->
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+    - ? course
+      ? institution
+      ? year
+    - course: null
+      institution: null
+      year: -->
+role: MSc Student
+avatar_filename: avatar.png
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
-  - icon: twitter
+    link: mailto:praveenradhakrishnan076@utexas.edu
+  - icon: linkedin
     icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
+    link: https://www.linkedin.com/in/prk076/
   - icon: github
     icon_pack: fab
-    link: 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://github.com/prav0761
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Grad Students
+title: Praveen Radhakrishnan
+email: ""
 ---
