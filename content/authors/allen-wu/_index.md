@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: mailto:allenwuhoo@gmail.com
+    link: mailto:allen.wu@utexas.edu
     icon_pack: fas
     icon: envelope
   - display:
