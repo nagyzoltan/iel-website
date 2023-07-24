@@ -4,7 +4,7 @@ date: 2023-06-04T13:59:09.664Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: x03601323.jpg
   focal_point: Smart
   preview_only: false
 ---
