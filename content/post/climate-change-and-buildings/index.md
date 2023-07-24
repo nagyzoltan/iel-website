@@ -4,7 +4,7 @@ date: 2023-07-23T22:31:57.405Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: kxan-09302016.jpg
   focal_point: Smart
   preview_only: false
 ---
