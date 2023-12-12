@@ -21,17 +21,10 @@ removePathAccents: true
 
 module:
   imports:
-    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    # - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-bootstrap/v5
-    hugoVersion:
-      min: '0.119.0'
-      extended: true
-  imports:
-      - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core
-      - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
-
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-bootstrap/v5
 
 
 ############################
