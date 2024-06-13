@@ -4,7 +4,7 @@ date: 2024-06-13T10:58:00.000Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ibpsa_simbuild2024_conferencelogo_emailheader_draft2.jpg
   focal_point: Smart
   preview_only: false
 ---
