@@ -1,15 +1,11 @@
 ---
-title: "Dr Nagy joins #Buildingwhisperers"
-date: 2024-10-14T16:24:00.000Z
-draft: false
-featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+title: Panel at Bentley's Year In Infrastructure
+date: 2024-10-14T16:27:00.000Z
 ---
-Dr Nagy was honored with the "operationally ready" challenge coin by the Edifice Complex Podcast. The coins are only given to professionals who are alumni of the podcast and know the difference between 'substantial completion' and 'building operational readiness'.
+Great discussion led by Richard J. Vestner and panel Jamie Cudden, Blaine Buenger, Jerry Dehn and Zoltan Nagy on how digital twins are helping city leaders and their supply chains collaborate and make informed, data-driven decisions to improve urban living.
 
-Dr Nagy was the #5 episode of the podcast, discussing the gap between energy and comfort: https://edificecomplexpodcast.com/episodes/005-dr-zoltan-nagy-the-gap-between-energy-thermal-comfort/
+Catch it again here (free registration required): https://www.bentley.com/yii/registration/
 
-![](20240918_112247.jpg)
+![](1728514798550.jpeg)
+
+![](1728510351500.jpeg)
