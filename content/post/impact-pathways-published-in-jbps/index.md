@@ -4,7 +4,7 @@ date: 2024-08-14T16:14:00.000Z
 draft: false
 featured: false
 image:
-  filename: showcoverimage.jpeg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
